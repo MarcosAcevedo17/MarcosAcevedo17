@@ -1,4 +1,4 @@
-# 👨‍💻 Marcos Acevedo Antonio  
+# 👨‍💻 Marcos Acevedo 
 🎓 Estudiante de Ingeniería Electrónica |  
 ⚙️ Automatización & Telecomunicaciones |  
 
