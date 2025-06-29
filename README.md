@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Marcos Acevedo Antonio
+# 👋 ¡Hola! Soy Marcos Acevedo
 ### 🎓 Estudiante de Ingeniería Electrónica | ⚙
 
 ---
