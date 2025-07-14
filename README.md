@@ -17,7 +17,7 @@ Soy un estudiante apasionado de **Ingeniería Electrónica** (3.º año) en la U
 ### 🧰 Herramientas de Desarrollo
 
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)&nbsp;&nbsp;&nbsp;![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)&nbsp;&nbsp;&nbsp;![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+ <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 ### 📐 Diseño y Simulación
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB1?style=for-the-badge&logo=kicad&logoColor=white)&nbsp;&nbsp;&nbsp;![LTspice](https://img.shields.io/badge/LTspice-A0171B?style=for-the-badge&logo=analogdevices&logoColor=white)&nbsp;&nbsp;&nbsp;![Falstad](https://img.shields.io/badge/Falstad-000000?style=for-the-badge&logo=codeforces&logoColor=white)&nbsp;&nbsp;&nbsp;![SolidWorks](https://img.shields.io/badge/SolidWorks-E12026?style=for-the-badge&logo=solidworks&logoColor=white)
